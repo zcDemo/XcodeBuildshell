@@ -1,0 +1,5 @@
+# XcodeBuildshell
+自动打包脚本
+这是根据XcodeBuild命令来实现打包的shell脚本
+结合Xcode8的自动管理证书使用 
+如果需要手动部署证书那么需要添加证书的信息 
